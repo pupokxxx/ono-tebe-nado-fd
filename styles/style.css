@@ -1,12 +1,10 @@
 /*Общие стили*/
-
-a:not(.header__logo, .card-link, .footer__social-link ) {
+a:not(.header__logo, .card-link, .footer__social-link) {
   text-decoration-line: underline;
   text-underline-offset: 3px;
 }
 
 /*Частные стили*/
-
 .header {
   padding: 92px 50px 96px;
   display: grid;
